@@ -1,0 +1,98 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/davidmilburn/Desktop/28250 VIp Galaxy Launch A1 V2 Folder/Document fonts/AdobeFnt25.lst
+FileLength:2052
+FileModTime:814352077
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-Bold
+FamilyName:DIN Pro
+StyleName:Bold
+MenuName:DIN Pro Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DIN Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/davidmilburn/Desktop/28250 VIp Galaxy Launch A1 V2 Folder/Document fonts/DINPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:143848
+FileModTime:577203865
+NameArray:0,Mac,18,DIN Pro Bold
+NameArray:0,Mac,4,DIN Pro Bold
+NameArray:0,Win,1,DIN Pro Bold
+NameArray:0,Win,16,DIN Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-CondensedBlack
+FamilyName:DIN Pro
+StyleName:Condensed Black
+MenuName:DIN Pro Cond Black
+StyleBits:0
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:DIN Pro Condensed Black
+WritingScript:Roman
+OutlineFileName:/Users/davidmilburn/Desktop/28250 VIp Galaxy Launch A1 V2 Folder/Document fonts/DINPro-CondBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:132196
+FileModTime:577203865
+NameArray:0,Mac,18,DIN Pro Condensed Black
+NameArray:0,Mac,4,DIN Pro Condensed Black
+NameArray:0,Win,1,DIN Pro Cond Black
+NameArray:0,Win,16,DIN Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINPro-CondensedBold
+FamilyName:DIN Pro
+StyleName:Condensed Bold
+MenuName:DIN Pro Cond Bold
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:DIN Pro Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Users/davidmilburn/Desktop/28250 VIp Galaxy Launch A1 V2 Folder/Document fonts/DINPro-CondBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:130296
+FileModTime:577203865
+NameArray:0,Mac,18,DIN Pro Condensed Bold
+NameArray:0,Mac,4,DIN Pro Condensed Bold
+NameArray:0,Win,1,DIN Pro Cond Bold
+NameArray:0,Win,16,DIN Pro
+%EndFont
+
